@@ -5,7 +5,6 @@
 body {
   margin: 0;
   font-family: "Lucida Grande";
-  background: "black";
 }
 
 a {
@@ -24,7 +23,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(c51eefd6458889941fff518c31e924b4.jpg);
+  background-image: url(3ed23917-712f-426a-8720-38ea31ad972b.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -82,17 +81,17 @@ a {
 }
 
 header {
-  height: 65px;
+  height: 80px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color:  rgba(34, 49, 52, 0.9);
   position :fixed;
   top: 0;
   z-index: 10;
 }
 
 .logo {
-  width: 124px;
-  margin-top: 20px;
+  width: 50px;
+  margin-top: 10px;
 }
 
 .header-left {
@@ -105,7 +104,7 @@ header {
 }
 
 .header-right a {
-  line-height: 65px;
+  line-height: 80px;
   padding: 0 25px;
   color: white;
   display: block;
@@ -189,6 +188,17 @@ header {
   top: 7px;
   box-shadow: none;
 }
-style {
-  padding: 180px 0 100px 0;
+
+footer img {
+  width: 150px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
 }
