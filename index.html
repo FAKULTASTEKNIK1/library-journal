@@ -19,7 +19,7 @@
         <div class="header-right">
           <a href="#">Lessons</a>
           <a href="#">Sign in</a>
-          <a href="#" class="login">Log in</a>
+          <a href="login.php" class="login">Log in</a>
         </div>
       </div>
     </header>
