@@ -37,7 +37,7 @@
     <footer>
       <div class="container">
         <img src="LOGO-UNINUS-LANDSCAPE.png">
-        <p>Learn to code, learn to be creative.</p>
+        <p>library journal fakultas teknik uninus</p>
       </div>
     </footer>
   </body>
